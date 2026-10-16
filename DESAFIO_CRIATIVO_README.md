@@ -74,4 +74,4 @@ Para validar a eficácia do prompt, foram testados três cenários principais:
 
 ---
 
-Feito com dedicação para o Desafio da DIO! 🚀
+Feito com dedicação para o Desafio da DIO! 🚀 BY Carolina Fernanda
